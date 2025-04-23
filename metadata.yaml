@@ -1,0 +1,33 @@
+_repo: The-smear_75855
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beames, John
+    gutenberg_agent_id: '58164'
+    url: http://www.gutenberg.org/2009/agents/58164
+description: ''
+gutenberg_issued: '2025-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75855'
+language: en
+pgterms:marc904: https://archive.org/details/top-notch-magazine-v-077-n-04-1929-04-15
+pgterms:marc905: 20250405164811beames
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York, NY :$bStreet & Smith Corp., $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Produced from the April 15, 1929 issue of Top Notch Magazine.
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Murder -- Investigation -- Fiction'
+- !lcsh 'Klondike River Valley (Yukon) -- Gold discoveries -- Fiction'
+- !lcsh 'Royal Canadian Mounted Police -- Fiction'
+- !lcsh 'Dawson (Yukon) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The smear
+url: http://www.gutenberg.org/ebooks/75855
